@@ -1,0 +1,12 @@
+{
+  "name": "01-graphql-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ThayronePaula/01-graphql-course.git",
+  "author": "thayrone <thayronedepaula15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.1.2",
+    "graphql": "^15.5.1"
+  }
+}
